@@ -1,2 +1,2 @@
 language: c
-Script: make
+script: make test
